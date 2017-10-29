@@ -1,4 +1,6 @@
 metastore_db/
+spark-warehouse/
+.GeoBases.d/
 bookings.csv
 searches.csv
 derby.log
